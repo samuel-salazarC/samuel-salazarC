@@ -33,11 +33,11 @@ Data Science Engineering student with hands-on experience in ETL pipelines, data
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🤖 AI Data Analyst](https://github.com/samuel-salazarC/-ai-data-analyst) | Automated EDA + AI-generated business intelligence reports | Python, Gemini API, pandas |
-| [🔬 Data Pipeline & ML](https://github.com/samuel-salazarC/Data_pipeline_and_ml) | End-to-end data pipeline with ML model and Streamlit dashboard | Python, scikit-learn, Streamlit |
-| [⛏️ Data Mining Framework](https://github.com/samuel-salazarC/data-mining-project) | Modular framework covering EDA, clustering, classification and regression | Python, pandas, scikit-learn |
-| [✈️ Flights Data Importer](https://github.com/samuel-salazarC/Flights) | Batch CSV-to-MySQL importer with data validation | Java, MySQL, JDBC |
-| [👁️ Eye Tracker Heatmap](https://github.com/samuel-salazarC/eye_tacker) | Real-time eye tracking with webcam and heatmap visualization | Python, MediaPipe, OpenCV |
+| [AI Data Analyst](https://github.com/samuel-salazarC/-ai-data-analyst) | Automated EDA + AI-generated business intelligence reports | Python, Gemini API, pandas |
+| [Data Pipeline & ML](https://github.com/samuel-salazarC/Data_pipeline_and_ml) | End-to-end data pipeline with ML model and Streamlit dashboard | Python, scikit-learn, Streamlit |
+| [Data Mining Framework](https://github.com/samuel-salazarC/data-mining-project) | Modular framework covering EDA, clustering, classification and regression | Python, pandas, scikit-learn |
+| [Flights Data Importer](https://github.com/samuel-salazarC/Flights) | Batch CSV-to-MySQL importer with data validation | Java, MySQL, JDBC |
+| [Eye Tracker Heatmap](https://github.com/samuel-salazarC/eye_tacker) | Real-time eye tracking with webcam and heatmap visualization | Python, MediaPipe, OpenCV |
 
 ---
 

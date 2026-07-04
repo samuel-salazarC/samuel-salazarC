@@ -53,7 +53,7 @@ Real-time interpretation in medical, legal, and public service contexts. English
 
 ## Education
 
-🎓 **Bachelor's Degree in Data Science Engineering** — Lead University *(2023 – Present)*
+**Bachelor's Degree in Data Science Engineering** — Lead University *(2023 – Present)*
 
 ---
 
